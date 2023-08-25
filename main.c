@@ -13,6 +13,8 @@ securityPatch(){
 }
 feature1(){
 }
+feature2(){
+}
 
 
 }
